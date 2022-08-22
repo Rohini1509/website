@@ -1,0 +1,90 @@
+body{
+
+
+background-color: #A2F341;
+background-image: linear-gradient(to right, aqua,yellow,orange,blueviolet, white);
+
+
+}
+
+
+h1{
+
+
+color: white;
+font-family: 'Segoe UI';
+font-size: medium;
+
+}
+
+
+
+
+.comp2
+{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header{
+    display:flex;
+  margin:100px;
+   padding: 20px;
+   
+}
+
+.hlink
+{
+    display:flex;
+    margin-left: 1100px;
+  padding: 50px;
+    justify-content: space-between;
+    
+}
+
+
+table,tr,th,td{
+  border: 1px solid  black;
+  border-collapse: collapse;
+padding: 100px;
+text-align: center;
+}
+
+a:link{
+color: greenyellow;
+}
+
+a:visited{
+  color: blueviolet;
+  }
+
+  a:hover{
+    background-color: aqua;
+  }
+
+
+  .comp2a{
+    position:relative;
+  }
+
+  .comp2a p
+  {
+
+
+    position:absolute;
+    top:50%;
+    left:40%;
+    opacity:0;
+
+  }
+  .comp2a img{
+
+    opacity:0.33;
+
+  }
+
+  .comp2a:hover img{
+    opacity:1;
+    
+  }

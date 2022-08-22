@@ -1,0 +1,28 @@
+marquee
+img
+br
+hr
+div
+h1..h6
+p
+sub
+sup
+a
+table
+td
+th
+tr
+title
+html body
+head
+link
+caption
+style
+select
+option
+
+form
+input - text, checkbox, radio, textarea,submit,reset,file
+textarea
+how to upload image as background with faded effect
+how to publish html coding using github

@@ -1,0 +1,21 @@
+background-color
+padding
+margin
+font-family
+font-size
+color
+display:flex
+justify-content
+flex-direction, flex-wrap, align-items, text-align
+opacity
+:hover
+:visited
+:link
+position
+border-collapse
+border
+transform: translate(x,y)
+
+
+
+
